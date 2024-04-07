@@ -1,4 +1,4 @@
-import Header from "./Header";
+import Header from "../Shared/Header";
 import Sidebar from "./Sidebar"
 
 function DefaultLayout({ children }) {

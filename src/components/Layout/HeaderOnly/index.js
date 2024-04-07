@@ -1,4 +1,4 @@
-import Header from "./Header";
+import Header from "../Shared/Header";
 
 function HeaderOnly({ children }) {
     return (
