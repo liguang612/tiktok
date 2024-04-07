@@ -1,0 +1,13 @@
+.inner {
+    background-color: #ccc;
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper {
+    box-shadow: 0px 1px 1px rgb(0 0 0 / 12%);
+    display: flex;
+    justify-content: center;
+    height: var(--default-header-height, 60px);
+    width: 100%;
+}
